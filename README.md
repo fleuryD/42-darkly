@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ce projet, développé dans le cadre du cursus de l'École 42, a pour objectif de vous initier à la sécurité informatique dans le domaine du web. Vous explorerez des vulnérabilités courantes et apprendrez à les identifier et les corriger. Vous découvrirez également l'OWASP, le plus grand projet dédié à la sécurité web à ce jour.
+Ce projet, développé dans le cadre du cursus de l'École 42, a pour objectif d'initier à la sécurité informatique dans le domaine du web. L'exploration des vulnérabilités courantes permettra de les identifier et de les corriger. La découverte de l'OWASP, le plus grand projet dédié à la sécurité web à ce jour, est également au programme.
 
 ## Status:
 
